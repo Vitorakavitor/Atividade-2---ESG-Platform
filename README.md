@@ -1,2 +1,2 @@
 # Social-media-website
-Social media website using API with JS 
+APP de rede social criado para interação entre colaboradores de uma empresa, como forma de interação e proximidade.
